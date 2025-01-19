@@ -90,8 +90,19 @@ section {
  }
  footer {
     background-color: black;
-    
-   b
-    
+    float: left;
+    width: 40%;
+    height: 100px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: bottom;
+    justify-content: space-between;
+    align-items: bottom;
 
+ }
+ footer :hover {
+    transform: scale(1:1);
+    transition: 0.5s;
+    cursor: pointer;
  }
