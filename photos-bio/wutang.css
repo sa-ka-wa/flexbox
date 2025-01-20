@@ -1,0 +1,10 @@
+p {
+    font-size: 20px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    width: 33%;
+    float: left;
+    margin: 0 auto;
+    padding: 10px;
+
+}
