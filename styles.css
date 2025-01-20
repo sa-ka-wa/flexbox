@@ -34,7 +34,7 @@ section {
  ul :hover {
       background-color: black;
       color: yellow;
-      transform: scale(1:1);
+      transform: scale(1,1);
       transition: 0.5s;
       cursor: pointer;
 
@@ -102,7 +102,7 @@ section {
 
  }
  footer :hover {
-    transform: scale(1:1);
+    transform: scale(1,1);
     transition: 0.5s;
     cursor: pointer;
  }
