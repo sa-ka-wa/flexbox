@@ -1,3 +1,33 @@
+.heading {
+  color: yellow;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+  z-index: 10;
+}
+.intro-paragraph {
+  color: white;
+  font-size: large;
+  z-index: 10;
+  width: 50%;
+}
+
+.background {
+  position: absolute;
+  top: -200px;
+  left: 50px;
+  z-index: 2;
+  float: left;
+  width: 50%;
+  height: 80vh;
+  object-fit: cover;
+}
+
+#intro {
+  position: relative;
+  margin-top: 50px;
+  margin-bottom: 200px;
+}
+
 section div {
   width: 200px;
   height: 200px;
