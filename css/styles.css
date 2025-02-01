@@ -47,6 +47,8 @@
   cursor: pointer;
 }
 
+.led-head {
+}
 body {
   flex-direction: column;
   background-color: black;
